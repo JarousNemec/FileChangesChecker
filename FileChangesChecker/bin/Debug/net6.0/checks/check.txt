@@ -1,0 +1,3 @@
+./dirToCheck/file1.docx;file1.docx;19/11/2022 15:03:39;9xLNOLnW0646N8p9ZVzHz3FW0wY1TDvVVagBfBFuCFw;2
+./dirToCheck/file2.txt;file2.txt;19/11/2022 15:05:41;o6/bCbMyCasjifu27fFOhm1lcs3+ep3IiY2bUlKPTWU;2
+./dirToCheck/file3.xlsx;file3.xlsx;19/11/2022 15:03:39;QizpuIvdb3q1CFagpx6BXHcrX8zAhFC5U28jV9GUBTQ;2
